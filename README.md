@@ -1,10 +1,11 @@
+
 # Olá, eu sou o Leonardo! 👋
 
 ### Desenvolvedor Back-end | Automação de Processos | C# | .NET | Selenium | Python
 
-Sou desenvolvedor especializado em **C#**, **.NET** e **Python**, com foco em automação de processos. Tenho experiência no desenvolvimento de soluções que otimizam e simplificam tarefas repetitivas, utilizando ferramentas como **Selenium** para automação de fluxos web e desktop com FlaUI.
+Sou desenvolvedor especializado em **C#**, **.NET** e **Python**, com foco em automação de processos. Tenho experiência no desenvolvimento de soluções que otimizam e simplificam tarefas repetitivas, utilizando ferramentas como **Selenium** para automação de fluxos web e desktop com **FlaUI**.
 
-Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias como **React** e **Node.js** para expandir minha atuação no front-end.
+Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias como **React** e **Angular** para expandir minha atuação no front-end.
 
 ---
 
@@ -36,7 +37,7 @@ Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:leonardo.lopes-almeida@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-0072C6?logo=microsoft-outlook&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
@@ -45,7 +46,7 @@ Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas
 ### Um pouco mais sobre mim:
 
 - 🎯 Estou sempre em busca de simplificar fluxos e criar soluções eficientes
-- 📚 Atualmente focado em aprender mais sobre **.NET**, **React** e **Node.js**
+- 📚 Atualmente focado em aprender mais sobre **.NET**, **React**, **Angular** e **Node.js**
 - 🎮 Jogo nas horas vagas 
 - 🤔 Gosto de explorar novas tecnologias e enfrentar desafios de programação
 
