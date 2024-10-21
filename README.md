@@ -1,4 +1,3 @@
-
 # Olá, eu sou o Leonardo! 👋
 
 ### Desenvolvedor Back-end | Automação de Processos | C# | .NET | Selenium | Python
@@ -43,6 +42,16 @@ Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas
 
 ---
 
+### 🚀 Projeto em Destaque: [NutriAPI](https://github.com/lopesleo/NutriAPI) 🥗
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=NutriAPI)](https://github.com/lopesleo/NutriAPI)
+
+Atualmente, estou trabalhando no **NutriAPI**, uma aplicação **ASP.NET Core** para gerenciar nutricionistas e seus pacientes. Este projeto foi criado como um estudo de persistência de dados com **PostgreSQL** e utiliza **Swagger** para documentação de APIs. Ele visa oferecer uma plataforma eficiente para o gerenciamento de pacientes no setor de nutrição.
+
+👉 Dê uma olhada no projeto e deixe suas sugestões!
+
+---
+
 ### Um pouco mais sobre mim:
 
 - 🎯 Estou sempre em busca de simplificar fluxos e criar soluções eficientes
@@ -50,6 +59,7 @@ Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas
 - 🎮 Jogo nas horas vagas 
 - 🤔 Gosto de explorar novas tecnologias e enfrentar desafios de programação
 
+---
 
 ### Agradecimentos 🙏
 
