@@ -4,7 +4,7 @@
 
 Sou desenvolvedor especializado em **C#**, **.NET** e **Python**, com foco em automação de processos. Tenho experiência no desenvolvimento de soluções que otimizam e simplificam tarefas repetitivas, utilizando ferramentas como **Selenium** para automação de fluxos web e desktop com **FlaUI**.
 
-Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias como **React** e **Angular** para expandir minha atuação no front-end.
+Além disso, estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias como **Next.JS** e **React** para expandir minha atuação no front-end.
 
 ---
 
@@ -55,7 +55,7 @@ Atualmente, estou trabalhando no **NutriAPI**, uma aplicação **ASP.NET Core** 
 ### Um pouco mais sobre mim:
 
 - 🎯 Estou sempre em busca de simplificar fluxos e criar soluções eficientes
-- 📚 Atualmente focado em aprender mais sobre **.NET**, **React**, **Angular** e **Node.js**
+- 📚 Atualmente focado em aprender mais sobre **.NET**, **React**, **Next.JS** e **Node.js**
 - 🎮 Jogo nas horas vagas 
 - 🤔 Gosto de explorar novas tecnologias e enfrentar desafios de programação
 
