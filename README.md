@@ -6,33 +6,13 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lopesleo.dev@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=lopesleo&style=for-the-badge&color=6d28d9&label=Profile+Views)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Back-end+Developer+%7C+RPA+Specialist;Java+%7C+C%23+%7C+.NET+%7C+Python+%7C+Node.js;Turning+repetitive+processes+into+code" alt="Typing SVG"/>
-
 </div>
-
-<div align="center">
-
-**[English](#about)** | **[Portugues](#sobre-mim)**
-
-</div>
-
----
 
 ## About
 
-Back-end developer focused on **process automation** and **RPA**. I build solutions that eliminate repetitive tasks — from web flows with **Selenium** and **Chrome DevTools Protocol** to desktop automation with **FlaUI** and integrations with Brazilian government portals (**eCAC**, **SEFAZ**, **PROUNI**).
+Back-end developer specializing in **process automation** and **RPA**. I work with **Selenium**, **Chrome DevTools Protocol**, and **FlaUI** to automate web and desktop flows, including integrations with Brazilian government portals like **eCAC**, **SEFAZ**, and **PROUNI**.
 
-Currently expanding into **Java**, **React**, and **Next.js**.
-
-```python
-class Leonardo:
-    role     = "Back-end Developer & RPA Specialist"
-    stack    = ["Java", "C#", ".NET", "Python", "Node.js", "TypeScript"]
-    learning = ["React", "Next.js", "Microservices Architecture"]
-    motto    = "Good code solves real problems with elegance."
-```
+Currently diving deeper into **Java**, **React**, and **Next.js**.
 
 ---
 
@@ -101,8 +81,6 @@ class Leonardo:
 [![NutriAPI](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=NutriAPI&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/NutriAPI)
 [![DeckTools](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=DeckTools&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/DeckTools)
 [![ZapBot](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=ZapBot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/ZapBot)
-[![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=AutoMail&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/AutoMail)
-[![Discord-Lite](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=Discord-Lite&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/Discord-Lite)
 
 </div>
 
@@ -117,45 +95,6 @@ class Leonardo:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/lopesleo/lopesleo/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-<details>
-<summary><h2>Sobre Mim</h2></summary>
-
-Desenvolvedor back-end focado em **automacao de processos** e **RPA**. Construo solucoes que eliminam tarefas repetitivas — de fluxos web com **Selenium** e **Chrome DevTools Protocol** a automacao desktop com **FlaUI** e integracoes com portais governamentais brasileiros (**eCAC**, **SEFAZ**, **PROUNI**).
-
-Atualmente expandindo conhecimentos em **Java**, **React** e **Next.js**.
-
-```python
-class Leonardo:
-    funcao       = "Desenvolvedor Back-end & Especialista em RPA"
-    stack        = ["Java", "C#", ".NET", "Python", "Node.js", "TypeScript"]
-    aprendendo   = ["React", "Next.js", "Arquitetura de Microsservicos"]
-    filosofia    = "Codigo bom resolve problemas reais com elegancia."
-```
-
-### Tecnologias & Ferramentas
-
-| Categoria | Tecnologias |
-|-----------|------------|
-| **Linguagens** | Java, C#, Python, TypeScript, JavaScript |
-| **Frameworks** | .NET, Node.js, Next.js, React |
-| **Automacao** | Selenium, FlaUI, Chrome DevTools Protocol |
-| **Infra & BD** | PostgreSQL, Docker, Git |
-
-### Projetos em Destaque
-
-| Projeto | Descricao |
-|---------|-----------|
-| [SteamFamilyWppBot](https://github.com/lopesleo/SteamFamilyWppBot) | Chatbot WhatsApp em TypeScript integrado a Steam Family com IA Gemini |
-| [NutriAPI](https://github.com/lopesleo/NutriAPI) | API REST em ASP.NET Core (.NET 8) com Entity Framework e PostgreSQL |
-| [DeckTools](https://github.com/lopesleo/DeckTools) | Plugin Python para Decky Loader no Steam Deck |
-| [ZapBot](https://github.com/lopesleo/ZapBot) | Automacao WhatsApp + Web Scraping com JavaScript e Python |
-| [AutoMail](https://github.com/lopesleo/AutoMail) | Automacao de envio e gerenciamento de e-mails em TypeScript |
-| [Discord-Lite](https://github.com/lopesleo/Discord-Lite) | Cliente Discord leve e programatico em Python |
-
-</details>
 
 ---
 

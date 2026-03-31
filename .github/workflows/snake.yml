@@ -7,8 +7,11 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+
     steps:
       - name: Generate snake game from contribution graph
         uses: Platane/snk/svg-only@v3
@@ -19,7 +22,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
