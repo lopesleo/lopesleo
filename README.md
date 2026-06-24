@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Leonardo%20Lopes&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Back-end%20Developer%20%E2%80%A2%20Process%20Automation%20%E2%80%A2%20RPA&descAlignY=55&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Leonardo%20Lopes&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Back-end%20%E2%80%A2%20Automation%20%E2%80%A2%20RPA%20%E2%80%A2%20Applied%20AI&descAlignY=55&descSize=16&descColor=a78bfa" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolopesalmeida/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=react&logoColor=white)](https://lopesleo.github.io)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lopesleo.dev@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=lopesleo&style=for-the-badge&color=6d28d9&label=Profile+Views)
 
@@ -11,6 +12,8 @@
 ## About
 
 Back-end developer specializing in **process automation** and **RPA**. I work with **Selenium**, **Chrome DevTools Protocol**, and **FlaUI** to automate web and desktop flows, including integrations with Brazilian government portals like **eCAC**, **SEFAZ**, and **PROUNI**.
+
+I also build with **applied AI**: LLMs like **Google Gemini** (function calling) and **Whisper**, in projects such as an email classifier and a video transcription pipeline. And I maintain open-source projects, including **[sdkcorreiosts](https://github.com/lopesleo/sdkcorreiosts)**, a TypeScript SDK for Brazil's Correios.
 
 Currently diving deeper into **Java**, **React**, and **Next.js**.
 
@@ -47,6 +50,15 @@ Currently diving deeper into **Java**, **React**, and **Next.js**.
     </td>
   </tr>
   <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Infra & DB</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -80,7 +92,8 @@ Currently diving deeper into **Java**, **React**, and **Next.js**.
 [![SteamFamilyWppBot](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=SteamFamilyWppBot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/SteamFamilyWppBot)
 [![NutriAPI](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=NutriAPI&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/NutriAPI)
 [![DeckTools](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=DeckTools&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/DeckTools)
-[![ZapBot](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=ZapBot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/ZapBot)
+[![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=AutoMail&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/AutoMail)
+[![clipper-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=lopesleo&repo=clipper-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lopesleo/clipper-pipeline)
 
 </div>
 
