@@ -63,7 +63,7 @@ Currently diving deeper into **Java**, **React**, and **Next.js**.
 <div align="center">
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=lopesleo&show_icons=true&theme=tokyonight&hide=contribs,prs&border_radius=10&hide_border=true&bg_color=0d1117"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesleo&theme=tokyonight&layout=compact&border_radius=10&hide_border=true&bg_color=0d1117"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesleo&theme=tokyonight&layout=compact&border_radius=10&hide_border=true&bg_color=0d1117&exclude_repo=Gerenciador-de-Servidores"/>
 
 <br/>
 
